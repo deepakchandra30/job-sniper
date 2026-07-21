@@ -1,0 +1,241 @@
+company,type,status,roles_found,detail
+Accenture (Global Solutions / Limited),html,OK,0,144 links scanned
+Adobe Systems Software Ireland Limited,html,OK,0,124 links scanned
+AIB (Allied Irish Banks p.l.c.),html,FAIL,0,"HTTPSConnectionPool(host='careers.aib.ie', port=443): Max re"
+Afiniti AI Limited,html,OK,0,43 links scanned
+Agilent Technologies Ireland Limited,html,FAIL,0,HTTP 404
+Amazon Development Centre Ireland Limited,html,OK,0,42 links scanned
+Amazon Web Services EMEA SARL,html,OK,0,42 links scanned
+Amdocs Software Systems Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Analog Devices International Unlimited Company,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Analytic Partners Ltd,html,OK,0,133 links scanned
+Anduril Industries Ireland Limited,lever,FAIL,0,HTTP 404
+Anthropic Ireland Limited,greenhouse,OK,17,406 total jobs
+Aon Solutions Ireland Limited,html,FAIL,0,HTTP 404
+Apple Distribution International Limited,html,OK,0,79 links scanned
+Applied Materials Ireland Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.appliedmaterials.com', por"
+Aptiv Global Operations Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.aptiv.com', port=443): Max"
+Arista Networks Limited,html,FAIL,0,HTTP 406
+Arm Ireland Limited,html,OK,0,177 links scanned
+AstraZeneca Pharmaceuticals (Ireland) DAC,html,OK,0,82 links scanned
+AtkinsRealis Limited,html,FAIL,0,HTTP 404
+Aviva Group Services Ireland Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.aviva.ie', port=443): Max "
+AXA Group Services Ltd,html,FAIL,0,HTTP 500
+Bank of America Europe DAC,html,OK,0,58 links scanned
+Bank of Ireland Group PLC,html,FAIL,0,HTTP 404
+BearingPoint Ireland Limited,html,FAIL,0,HTTP 404
+Becton Dickinson Research Centre Ireland Limited,html,OK,0,88 links scanned
+Bentley Systems International Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.bentley.com', port=443): M"
+Bloomberg Data Management Services Limited,html,FAIL,0,HTTP 403
+"BNP Paribas, Dublin Branch",html,FAIL,0,HTTP 403
+BNY Mellon Fund Services (Ireland) DAC,html,FAIL,0,HTTP 404
+Boston Scientific Ireland Limited,html,OK,0,151 links scanned
+BrowserStack Limited,greenhouse,FAIL,0,HTTP 404
+Cadence Design Systems (Ireland) Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Calypso AI Limited,greenhouse,FAIL,0,HTTP 404
+Canada Life Group Services Ltd,html,FAIL,0,"HTTPSConnectionPool(host='www.canadalife.ie', port=443): Max"
+Capgemini Ireland Limited,html,FAIL,0,HTTP 404
+Carne Global Financial Services Ltd,html,OK,0,30 links scanned
+CBRE GWS Ireland Limited,html,FAIL,0,HTTP 202
+Charles River Laboratories Ireland Ltd,html,FAIL,0,HTTP 404
+Chargebee Ireland Limited,lever,FAIL,0,HTTP 404
+Cisco Systems Internetworking (Ireland) Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.cisco.com', port=443): Max"
+Citibank Europe PLC,html,OK,0,75 links scanned
+Clearstream Technologies Limited,html,OK,4,213 links scanned
+Cloudera International Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Codec-DSS Limited,html,OK,0,153 links scanned
+Cognizant Technology Solutions Ireland Limited,html,OK,0,67 links scanned
+Compass Informatics Limited,html,OK,1,48 links scanned
+Coupa Operations Inc.,greenhouse,FAIL,0,HTTP 404
+CPL Solutions Limited,html,OK,1,290 links scanned
+CRIF Ireland Limited,html,FAIL,0,HTTP 404
+Cubic Telecom Limited,html,FAIL,0,HTTP 403
+Cygnus Data Science Limited,html,FAIL,0,"HTTPSConnectionPool(host='cygnus.ie', port=443): Max retries"
+DAA Public Limited Company,html,FAIL,0,"HTTPSConnectionPool(host='careers.daa.ie', port=443): Max re"
+Data Edge Ltd.,html,FAIL,0,HTTP 404
+Datadog Ireland Limited,greenhouse,OK,4,422 total jobs
+Datavant Limited,greenhouse,FAIL,0,HTTP 404
+Dawn Meats Ireland UC,html,OK,0,81 links scanned
+DBT Labs Ireland Limited,greenhouse,OK,0,0 total jobs
+Deciphex Ltd,html,OK,0,42 links scanned
+Dell Products Unlimited Company,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Deloitte Ireland LLP,html,FAIL,0,"HTTPSConnectionPool(host='apply.deloitte.ie', port=443): Max"
+DePuy Ireland Unlimited Company,html,OK,2,255 links scanned
+Dexcom International Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Diageo Ireland Holdings Unlimited Company,html,OK,0,500 links scanned
+Digit Game Studios Limited,html,FAIL,0,"HTTPSConnectionPool(host='www.digitgaming.com', port=443): M"
+DocuSign International (EMEA) Limited,html,OK,0,44 links scanned
+Ecall Global Telecoms Ltd,html,FAIL,0,"HTTPSConnectionPool(host='www.ecall.ie', port=443): Max retr"
+Edwards Lifesciences Ireland Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.edwards.com', port=443): M"
+EirGrid Public Limited Company,html,FAIL,0,HTTP 404
+Electricity Supply Board (ESB),html,FAIL,0,HTTP 404
+Electronic Arts Ireland Limited,html,OK,3,178 links scanned
+Eli Lilly Cork Limited,html,OK,0,9 links scanned
+EMC Information Systems International UC,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Emydex Technology Limited,html,OK,3,178 links scanned
+Equal1 Laboratories Ireland,html,FAIL,0,HTTP 404
+Equinix (Ireland) Limited,html,FAIL,0,HTTP 404
+Ernst & Young (EY Ireland),html,OK,8,154 links scanned
+Escher Group (IRL) Limited,html,FAIL,0,HTTP 403
+Etsy Ireland Unlimited Company,html,FAIL,0,HTTP 202
+Expleo Technology Ireland Limited,html,OK,1,161 links scanned
+Fenergo Limited,greenhouse,FAIL,0,HTTP 404
+Fineos Corporation Limited,html,OK,0,54 links scanned
+Fiserv Solutions (Europe) Limited,html,OK,0,28 links scanned
+Fisher Investments Ireland Limited,html,FAIL,0,HTTP 403
+Flogas Enterprise Solutions (Ireland) Limited,html,FAIL,0,HTTP 404
+Forcepoint International Technology Ltd,html,OK,0,141 links scanned
+Forvis Mazars,html,FAIL,0,HTTP 404
+Free Now Ireland Limited,greenhouse,OK,2,47 total jobs
+Gas Networks Ireland,html,FAIL,0,HTTP 404
+GE Healthcare Ireland Limited,html,OK,0,38 links scanned
+Genpact Ireland Private Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Gilead Sciences Ireland UC,html,EMPTY,0,few/no server-side links (JS-rendered?)
+GitLab Ireland Limited,greenhouse,OK,6,168 total jobs
+Glanbia Management Services Limited,html,OK,4,76 links scanned
+GlobalLogic Software and Technology Ireland Limited,html,FAIL,0,HTTP 403
+Goodbody Stockbrokers,html,OK,0,50 links scanned
+Google Ireland Limited,html,OK,0,85 links scanned
+Google Cloud EMEA Limited,html,OK,0,85 links scanned
+Grant Thornton,html,OK,0,99 links scanned
+Guidewire Software (Ireland) Limited,html,OK,0,174 links scanned
+Hanley Energy Limited,html,FAIL,0,HTTP 404
+HCL Technologies Limited,html,OK,0,86 links scanned
+Healthbeacon PLC,html,OK,0,51 links scanned
+HEAnet,html,FAIL,0,HTTP 404
+Hewlett Packard Enterprise Ireland Limited,html,OK,0,9 links scanned
+Horizon Quantum Computing (Ireland) Limited,html,OK,0,72 links scanned
+Hovione Limited,html,FAIL,0,HTTP 404
+HubSpot Ireland Limited,greenhouse,OK,0,0 total jobs
+Huawei Technologies (Ireland) Co Ltd,html,OK,0,58 links scanned
+IBM Ireland Limited,html,OK,0,6 links scanned
+ICE Data Services Ireland Limited,html,FAIL,0,HTTP 500
+ICON Clinical Research Limited,html,OK,1,290 links scanned
+Indeemo Limited,html,FAIL,0,HTTP 404
+Infineon Technologies Ireland Limited,html,FAIL,0,HTTP 404
+Infosys Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Intel Ireland Limited,html,FAIL,0,"HTTPSConnectionPool(host='corpredirect.intel.com', port=443)"
+Intel Research and Development Ireland Limited,html,FAIL,0,"HTTPSConnectionPool(host='corpredirect.intel.com', port=443)"
+Interactive Brokers Ireland Limited,html,FAIL,0,HTTP 404
+Intercom R&D Unlimited Company,greenhouse,OK,10,134 total jobs
+IQVIA RDS Ireland Limited,html,FAIL,0,HTTP 404
+Irish Life Group Services Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.irishlifegroup.ie', port=4"
+Johnson & Johnson Vision Care Ireland UC,html,OK,2,255 links scanned
+Johnson Controls Ireland Limited,html,FAIL,0,HTTP 404
+J.P. Morgan SE,html,OK,0,111 links scanned
+Kaseya Limited,html,OK,0,137 links scanned
+KBI Global Investors Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Keelvar Systems Limited,html,OK,0,95 links scanned
+Kerry Group Services Ltd,html,FAIL,0,"HTTPSConnectionPool(host='careers.kerry.com', port=443): Max"
+Keywords International Ltd.,html,FAIL,0,HTTP 404
+KKR Ireland DAC,html,OK,0,107 links scanned
+Klaviyo Ireland Limited,greenhouse,OK,4,152 total jobs
+Kneat Solutions Limited,html,OK,0,177 links scanned
+KPMG,html,FAIL,0,"HTTPSConnectionPool(host='kpmgcareers.ie', port=443): Max re"
+Lam Research (Ireland) Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.lamresearch.com', port=443"
+Learnosity Limited,html,OK,0,176 links scanned
+LearnUpon Limited,html,OK,0,33 links scanned
+Liberty Information Technology Limited,html,FAIL,0,"HTTPSConnectionPool(host='www.libertyit.co.uk', port=443): M"
+LinkedIn Ireland Unlimited Company,html,FAIL,0,HTTP 404
+Logitech Ireland Services Limited,html,FAIL,0,"HTTPSConnectionPool(host='www.jobvite.com', port=443): Max r"
+LTI Mindtree Limited,html,OK,0,118 links scanned
+Mastercard Ireland Limited,html,OK,0,100 links scanned
+McAfee Ireland Limited,html,FAIL,0,HTTP 404
+Merative Healthcare Ireland Limited,html,OK,4,201 links scanned
+Merck Sharp & Dohme Ireland (Human Health) Limited,html,FAIL,0,"HTTPSConnectionPool(host='jobs.msd.com', port=443): Max retr"
+Meta Platforms Ireland Limited,html,FAIL,0,HTTP 400
+Microsoft Ireland Operations Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Microsoft Ireland Research Unlimited Company,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Micron Agritech Limited,html,FAIL,0,HTTP 404
+MongoDB Limited,greenhouse,OK,4,397 total jobs
+Motorola Solutions Ireland Ltd,html,OK,0,475 links scanned
+Mott MacDonald Ireland Limited,html,OK,0,169 links scanned
+Munich Re Automation Solutions Ltd,html,FAIL,0,HTTP 404
+Musgrave Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.musgravegroup.com', port=4"
+NetApp Ireland Unlimited Company,html,OK,0,93 links scanned
+Neueda Technologies Ireland Limited,html,OK,0,128 links scanned
+"Notion Labs, Ireland Limited",greenhouse,FAIL,0,HTTP 404
+Novartis Ireland Limited,html,OK,0,375 links scanned
+NTT DATA Services Ireland Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.nttdata.com', port=443): M"
+Ocuco Limited,html,OK,0,115 links scanned
+Okta Identity Ireland Limited,greenhouse,OK,8,349 total jobs
+OpenAI Ireland Limited,html,OK,73,1509 links scanned
+OpenSky Data Systems Ltd,html,OK,4,177 links scanned
+Optum Services (Ireland) Limited,html,OK,3,121 links scanned
+Oracle EMEA Ltd,html,OK,0,15 links scanned
+Ornua Co-Operative Limited,html,OK,2,125 links scanned
+Parexel International (IRL) Limited,html,OK,6,565 links scanned
+PayPal Europe Services Limited,html,FAIL,0,HTTP 404
+Permanent TSB PLC,html,FAIL,0,"HTTPSConnectionPool(host='careers.ptsb.ie', port=443): Max r"
+PFH Technology Group Unlimited Company,html,OK,0,67 links scanned
+Pfizer Ireland Pharmaceuticals Unlimited Company,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Pinterest Europe Limited,html,OK,1,106 links scanned
+Pobal Ltd,html,OK,0,47 links scanned
+PricewaterhouseCoopers (PwC Ireland),html,OK,1,225 links scanned
+Proofpoint Ireland Limited,html,OK,0,141 links scanned
+Qualtech Ltd,html,FAIL,0,"HTTPSConnectionPool(host='www.qualtech.ie', port=443): Max r"
+Quest Software International Limited,html,OK,0,89 links scanned
+Raidio Teilifis Eireann (RTE),html,OK,0,278 links scanned
+Randstad Ireland Operations Limited,html,OK,0,442 links scanned
+RecommenderX DAC,html,FAIL,0,"HTTPSConnectionPool(host='www.recommenderx.com', port=443): "
+Red Hat Limited,html,OK,0,181 links scanned
+Regeneron Ireland DAC,html,FAIL,0,HTTP 404
+Roche Products (Ireland) Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.roche.com', port=443): Max"
+Roomex Limited,html,FAIL,0,HTTP 429
+Royal College of Surgeons In Ireland,html,FAIL,0,HTTP 404
+Ryanair Labs Limited,html,OK,0,100 links scanned
+SAP Ireland Limited,html,OK,0,69 links scanned
+Schneider Electric Ireland Limited,html,OK,0,70 links scanned
+Serosep Limited,html,OK,0,83 links scanned
+ServiceNow Ireland Limited,html,OK,0,71 links scanned
+SFDC Ireland Limited (Salesforce),html,EMPTY,0,few/no server-side links (JS-rendered?)
+Shutterstock Ireland Limited,greenhouse,FAIL,0,HTTP 404
+Siemens Healthcare Diagnostics Manufacturing Limited,html,FAIL,0,HTTP 404
+SITA Information Networking Computing Ireland Limited,html,OK,0,94 links scanned
+Sonra Intelligence Limited,html,FAIL,0,HTTP 404
+Sony Interactive Entertainment Ireland Limited,html,OK,7,218 links scanned
+Spotify Ireland Limited,lever,OK,16,114 total jobs
+Squarespace Ireland Limited,greenhouse,OK,0,15 total jobs
+State Street International (Ireland) Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+State Street Technology (Ireland) Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Stats Sports Data & Technology Ireland Ltd,html,OK,0,61 links scanned
+Stripe Technology Company Limited,greenhouse,OK,20,518 total jobs
+Stryker Ireland Limited,html,FAIL,0,HTTP 404
+Susquehanna International Group Limited,html,OK,0,27 links scanned
+SurveyMonkey Europe Unlimited Company,html,OK,0,226 links scanned
+Synopsys International Ltd,html,OK,2,92 links scanned
+Tata Consultancy Services Ireland Limited,html,FAIL,0,HTTP 403
+Tata Elxsi Limited,html,OK,2,163 links scanned
+Tech Mahindra Limited,html,OK,0,70 links scanned
+Tekenable Limited,html,OK,0,157 links scanned
+Temenos Systems Ireland Limited,html,OK,0,128 links scanned
+Tenable Network Security Ireland Limited,greenhouse,FAIL,0,HTTP 404
+Tesco Ireland Ltd,html,OK,0,95 links scanned
+Tetra Tech Ireland Limited,html,OK,0,131 links scanned
+TikTok Technology Limited,html,OK,0,65 links scanned
+Truata Limited,html,OK,0,50 links scanned
+Trulioo (Ireland) Limited,html,OK,0,122 links scanned
+Twilio Ireland Limited,greenhouse,OK,6,169 total jobs
+Udemy Ireland Limited,greenhouse,OK,0,9 total jobs
+Uisce Eireann,html,FAIL,0,HTTP 404
+Uniphar Group,html,OK,0,5 links scanned
+Version 1 Software Limited,html,FAIL,0,HTTP 404
+Vodafone Ireland Limited,html,FAIL,0,HTTP 404
+Virgin Media Ireland Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.virginmedia.ie', port=443)"
+VHI Health & Wellbeing DAC,html,FAIL,0,"HTTPSConnectionPool(host='careers.vhi.ie', port=443): Max re"
+Wayfair Stores Limited,html,FAIL,0,HTTP 404
+Wayflyer Limited,greenhouse,FAIL,0,HTTP 404
+Waystone Centralised Services (IE) Limited,html,OK,0,178 links scanned
+WhatsApp Ireland Limited,html,FAIL,0,HTTP 400
+Winthrop Technologies Limited,html,FAIL,0,HTTP 404
+Wipro Limited - Irish Branch,html,OK,0,119 links scanned
+Workday Limited,html,EMPTY,0,few/no server-side links (JS-rendered?)
+Workvivo Limited,html,OK,0,148 links scanned
+WSP Ireland Consulting Limited,html,FAIL,0,HTTP 403
+WuXi Biologics Ireland Limited,html,FAIL,0,"HTTPSConnectionPool(host='careers.wuxibiologics.com', port=4"
+Yahoo EMEA Limited,html,OK,0,64 links scanned
+Zalando Ireland Limited,html,OK,0,44 links scanned
+Zendesk International Limited,greenhouse,FAIL,0,HTTP 404
+Zoetis Belgium S.A.,html,OK,0,171 links scanned
+Zurich Insurance Company Ltd,html,OK,0,87 links scanned
+Zyte Group Limited,html,OK,0,105 links scanned

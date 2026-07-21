@@ -1,0 +1,704 @@
+{
+  "companies": [
+    {
+      "name": "Accenture (Global Solutions / Limited)",
+      "type": "html",
+      "url": "https://www.accenture.com/ie-en/careers/jobsearch?jk=data&sb=1"
+    },
+    {
+      "name": "Adobe Systems Software Ireland Limited",
+      "type": "html",
+      "url": "https://careers.adobe.com/us/en/search-results?keywords=data&location=Ireland"
+    },
+    {
+      "name": "Afiniti AI Limited",
+      "type": "html",
+      "url": "https://www.afiniti.com/careers"
+    },
+    {
+      "name": "Amazon Development Centre Ireland Limited",
+      "type": "html",
+      "url": "https://www.amazon.jobs/en/search?base_query=data&loc_query=Ireland"
+    },
+    {
+      "name": "Amazon Web Services EMEA SARL",
+      "type": "html",
+      "url": "https://www.amazon.jobs/en/search?base_query=data+analyst&loc_query=Ireland"
+    },
+    {
+      "name": "Amdocs Software Systems Limited",
+      "type": "html",
+      "url": "https://jobs.amdocs.com/search/?q=data&locationsearch=Ireland"
+    },
+    {
+      "name": "Analog Devices International Unlimited Company",
+      "type": "html",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External?q=data&locationCountry=e42ad5eac46d4cc9b367ceaef42577c5"
+    },
+    {
+      "name": "Analytic Partners Ltd",
+      "type": "html",
+      "url": "https://analyticpartners.com/careers/"
+    },
+    {
+      "name": "Anthropic Ireland Limited",
+      "type": "greenhouse",
+      "slug": "anthropic"
+    },
+    {
+      "name": "Apple Distribution International Limited",
+      "type": "html",
+      "url": "https://jobs.apple.com/en-ie/search?location=ireland-IRLC&search=data"
+    },
+    {
+      "name": "Arm Ireland Limited",
+      "type": "html",
+      "url": "https://careers.arm.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "AstraZeneca Pharmaceuticals (Ireland) DAC",
+      "type": "html",
+      "url": "https://careers.astrazeneca.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "Bank of America Europe DAC",
+      "type": "html",
+      "url": "https://careers.bankofamerica.com/en-us/job-search?ref=search&keyword=data&location=Dublin"
+    },
+    {
+      "name": "Becton Dickinson Research Centre Ireland Limited",
+      "type": "html",
+      "url": "https://jobs.bd.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "Boston Scientific Ireland Limited",
+      "type": "html",
+      "url": "https://jobs.bostonscientific.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "Cadence Design Systems (Ireland) Limited",
+      "type": "html",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers?q=data&locations=Ireland"
+    },
+    {
+      "name": "Carne Global Financial Services Ltd",
+      "type": "html",
+      "url": "https://www.carnegroup.com/careers/"
+    },
+    {
+      "name": "Citibank Europe PLC",
+      "type": "html",
+      "url": "https://jobs.citi.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "Clearstream Technologies Limited",
+      "type": "html",
+      "url": "https://careers.deutsche-boerse.com/search/?q=data&locationsearch=Ireland"
+    },
+    {
+      "name": "Cloudera International Limited",
+      "type": "html",
+      "url": "https://cloudera.wd5.myworkdayjobs.com/External_Career?q=data"
+    },
+    {
+      "name": "Codec-DSS Limited",
+      "type": "html",
+      "url": "https://www.codec.ie/careers/"
+    },
+    {
+      "name": "Cognizant Technology Solutions Ireland Limited",
+      "type": "html",
+      "url": "https://careers.cognizant.com/global-en/jobs/?keyword=data&location=Ireland"
+    },
+    {
+      "name": "Compass Informatics Limited",
+      "type": "html",
+      "url": "https://www.compass.ie/careers/"
+    },
+    {
+      "name": "CPL Solutions Limited",
+      "type": "html",
+      "url": "https://www.cpl.com/job-search/?q=data%20analyst"
+    },
+    {
+      "name": "Datadog Ireland Limited",
+      "type": "greenhouse",
+      "slug": "datadog"
+    },
+    {
+      "name": "Dawn Meats Ireland UC",
+      "type": "html",
+      "url": "https://www.dawnmeats.com/careers"
+    },
+    {
+      "name": "DBT Labs Ireland Limited",
+      "type": "greenhouse",
+      "slug": "dbtlabsinc"
+    },
+    {
+      "name": "Deciphex Ltd",
+      "type": "html",
+      "url": "https://www.deciphex.com/careers"
+    },
+    {
+      "name": "Dell Products Unlimited Company",
+      "type": "html",
+      "url": "https://jobs.dell.com/en/search-jobs/data/Ireland"
+    },
+    {
+      "name": "DePuy Ireland Unlimited Company",
+      "type": "html",
+      "url": "https://www.careers.jnj.com/en/jobs/?search=data&location=Ireland"
+    },
+    {
+      "name": "Dexcom International Limited",
+      "type": "html",
+      "url": "https://careers.dexcom.com/careers?location=Ireland&keyword=data"
+    },
+    {
+      "name": "Diageo Ireland Holdings Unlimited Company",
+      "type": "html",
+      "url": "https://www.diageo.com/en/careers/search-and-apply"
+    },
+    {
+      "name": "DocuSign International (EMEA) Limited",
+      "type": "html",
+      "url": "https://careers.docusign.com/jobs?keyword=data&location=Dublin"
+    },
+    {
+      "name": "Electronic Arts Ireland Limited",
+      "type": "html",
+      "url": "https://ea.gr8people.com/jobs?location=Ireland&keyword=data"
+    },
+    {
+      "name": "Eli Lilly Cork Limited",
+      "type": "html",
+      "url": "https://careers.lilly.com/us/en/search-results?keywords=data&location=Ireland"
+    },
+    {
+      "name": "EMC Information Systems International UC",
+      "type": "html",
+      "url": "https://jobs.dell.com/en/search-jobs/data/Ireland"
+    },
+    {
+      "name": "Emydex Technology Limited",
+      "type": "html",
+      "url": "https://www.emydex.com/careers/"
+    },
+    {
+      "name": "Ernst & Young (EY Ireland)",
+      "type": "html",
+      "url": "https://careers.ey.com/ey/search/?q=data&locationsearch=Ireland"
+    },
+    {
+      "name": "Expleo Technology Ireland Limited",
+      "type": "html",
+      "url": "https://expleo.com/global/en/careers/?s=data&country=ireland"
+    },
+    {
+      "name": "Fineos Corporation Limited",
+      "type": "html",
+      "url": "https://www.fineos.com/careers/"
+    },
+    {
+      "name": "Fiserv Solutions (Europe) Limited",
+      "type": "html",
+      "url": "https://careers.fiserv.com/search-jobs?k=data&l=Ireland"
+    },
+    {
+      "name": "Forcepoint International Technology Ltd",
+      "type": "html",
+      "url": "https://www.forcepoint.com/company/careers"
+    },
+    {
+      "name": "Free Now Ireland Limited",
+      "type": "greenhouse",
+      "slug": "freenow"
+    },
+    {
+      "name": "GE Healthcare Ireland Limited",
+      "type": "html",
+      "url": "https://careers.gehealthcare.com/global/en/search-results?keywords=data&location=Ireland"
+    },
+    {
+      "name": "Genpact Ireland Private Limited",
+      "type": "html",
+      "url": "https://www.genpact.com/careers/job-search?keyword=data&location=Ireland"
+    },
+    {
+      "name": "Gilead Sciences Ireland UC",
+      "type": "html",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers?q=data&locations=Ireland"
+    },
+    {
+      "name": "GitLab Ireland Limited",
+      "type": "greenhouse",
+      "slug": "gitlab"
+    },
+    {
+      "name": "Glanbia Management Services Limited",
+      "type": "html",
+      "url": "https://careers.glanbia.com/search/?q=data&locationsearch=Ireland"
+    },
+    {
+      "name": "Goodbody Stockbrokers",
+      "type": "html",
+      "url": "https://www.goodbody.ie/careers"
+    },
+    {
+      "name": "Google Ireland Limited",
+      "type": "html",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?location=Ireland&q=data"
+    },
+    {
+      "name": "Google Cloud EMEA Limited",
+      "type": "html",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?location=Ireland&q=data+cloud"
+    },
+    {
+      "name": "Grant Thornton",
+      "type": "html",
+      "url": "https://www.grantthornton.ie/careers/"
+    },
+    {
+      "name": "Guidewire Software (Ireland) Limited",
+      "type": "html",
+      "url": "https://careers.guidewire.com/careers?location=Dublin"
+    },
+    {
+      "name": "HCL Technologies Limited",
+      "type": "html",
+      "url": "https://www.hcltech.com/careers"
+    },
+    {
+      "name": "Healthbeacon PLC",
+      "type": "html",
+      "url": "https://www.healthbeacon.com/careers/"
+    },
+    {
+      "name": "Hewlett Packard Enterprise Ireland Limited",
+      "type": "html",
+      "url": "https://careers.hpe.com/us/en/search-results?keywords=data&location=Ireland"
+    },
+    {
+      "name": "Horizon Quantum Computing (Ireland) Limited",
+      "type": "html",
+      "url": "https://horizonquantum.com/careers"
+    },
+    {
+      "name": "HubSpot Ireland Limited",
+      "type": "greenhouse",
+      "slug": "hubspot"
+    },
+    {
+      "name": "Huawei Technologies (Ireland) Co Ltd",
+      "type": "html",
+      "url": "https://career.huawei.com/reccampportal/portal5/index.html"
+    },
+    {
+      "name": "IBM Ireland Limited",
+      "type": "html",
+      "url": "https://www.ibm.com/careers/search?field_keyword_05[0]=Ireland&q=data"
+    },
+    {
+      "name": "ICON Clinical Research Limited",
+      "type": "html",
+      "url": "https://careers.iconplc.com/jobs?keywords=data&location=Ireland"
+    },
+    {
+      "name": "Infosys Limited",
+      "type": "html",
+      "url": "https://career.infosys.com/jobs?location=Ireland"
+    },
+    {
+      "name": "Intercom R&D Unlimited Company",
+      "type": "greenhouse",
+      "slug": "intercom"
+    },
+    {
+      "name": "Johnson & Johnson Vision Care Ireland UC",
+      "type": "html",
+      "url": "https://www.careers.jnj.com/en/jobs/?search=data&location=Ireland"
+    },
+    {
+      "name": "J.P. Morgan SE",
+      "type": "html",
+      "url": "https://careers.jpmorgan.com/us/en/search-results?keyword=data&location=Dublin"
+    },
+    {
+      "name": "Kaseya Limited",
+      "type": "html",
+      "url": "https://www.kaseya.com/careers/"
+    },
+    {
+      "name": "KBI Global Investors Limited",
+      "type": "html",
+      "url": "https://www.kbiglobalinvestors.com/careers/"
+    },
+    {
+      "name": "Keelvar Systems Limited",
+      "type": "html",
+      "url": "https://www.keelvar.com/careers"
+    },
+    {
+      "name": "KKR Ireland DAC",
+      "type": "html",
+      "url": "https://www.kkr.com/careers"
+    },
+    {
+      "name": "Klaviyo Ireland Limited",
+      "type": "greenhouse",
+      "slug": "klaviyo"
+    },
+    {
+      "name": "Kneat Solutions Limited",
+      "type": "html",
+      "url": "https://www.kneat.com/careers/"
+    },
+    {
+      "name": "Learnosity Limited",
+      "type": "html",
+      "url": "https://learnosity.com/careers/"
+    },
+    {
+      "name": "LearnUpon Limited",
+      "type": "html",
+      "url": "https://www.learnupon.com/careers/"
+    },
+    {
+      "name": "LTI Mindtree Limited",
+      "type": "html",
+      "url": "https://www.ltimindtree.com/careers/"
+    },
+    {
+      "name": "Mastercard Ireland Limited",
+      "type": "html",
+      "url": "https://careers.mastercard.com/us/en/search-results?keywords=data&location=Dublin"
+    },
+    {
+      "name": "Merative Healthcare Ireland Limited",
+      "type": "html",
+      "url": "https://www.merative.com/careers"
+    },
+    {
+      "name": "Microsoft Ireland Operations Limited",
+      "type": "html",
+      "url": "https://jobs.careers.microsoft.com/global/en/search?lc=Ireland&q=data"
+    },
+    {
+      "name": "Microsoft Ireland Research Unlimited Company",
+      "type": "html",
+      "url": "https://jobs.careers.microsoft.com/global/en/search?lc=Ireland&q=data%20science"
+    },
+    {
+      "name": "MongoDB Limited",
+      "type": "greenhouse",
+      "slug": "mongodb"
+    },
+    {
+      "name": "Motorola Solutions Ireland Ltd",
+      "type": "html",
+      "url": "https://www.motorolasolutions.com/en_us/about/careers.html"
+    },
+    {
+      "name": "Mott MacDonald Ireland Limited",
+      "type": "html",
+      "url": "https://www.mottmac.com/careers"
+    },
+    {
+      "name": "NetApp Ireland Unlimited Company",
+      "type": "html",
+      "url": "https://careers.netapp.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "Neueda Technologies Ireland Limited",
+      "type": "html",
+      "url": "https://www.neueda.com/careers/"
+    },
+    {
+      "name": "Novartis Ireland Limited",
+      "type": "html",
+      "url": "https://www.novartis.com/careers/career-search?search=data&location=Ireland"
+    },
+    {
+      "name": "Ocuco Limited",
+      "type": "html",
+      "url": "https://www.ocuco.com/careers/"
+    },
+    {
+      "name": "Okta Identity Ireland Limited",
+      "type": "greenhouse",
+      "slug": "okta"
+    },
+    {
+      "name": "OpenAI Ireland Limited",
+      "type": "html",
+      "url": "https://openai.com/careers/search/?l=dublin"
+    },
+    {
+      "name": "OpenSky Data Systems Ltd",
+      "type": "html",
+      "url": "https://www.openskydata.com/careers/"
+    },
+    {
+      "name": "Optum Services (Ireland) Limited",
+      "type": "html",
+      "url": "https://careers.unitedhealthgroup.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "Oracle EMEA Ltd",
+      "type": "html",
+      "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/jobs?keyword=data&location=Ireland"
+    },
+    {
+      "name": "Ornua Co-Operative Limited",
+      "type": "html",
+      "url": "https://careers.ornua.com/search/?q=data"
+    },
+    {
+      "name": "Parexel International (IRL) Limited",
+      "type": "html",
+      "url": "https://jobs.parexel.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "PFH Technology Group Unlimited Company",
+      "type": "html",
+      "url": "https://www.pfh.ie/careers/"
+    },
+    {
+      "name": "Pfizer Ireland Pharmaceuticals Unlimited Company",
+      "type": "html",
+      "url": "https://www.pfizer.com/about/careers/search-jobs?keyword=data&country=Ireland"
+    },
+    {
+      "name": "Pinterest Europe Limited",
+      "type": "html",
+      "url": "https://www.pinterestcareers.com/jobs/?search=data&location=Dublin"
+    },
+    {
+      "name": "Pobal Ltd",
+      "type": "html",
+      "url": "https://www.pobal.ie/careers/"
+    },
+    {
+      "name": "PricewaterhouseCoopers (PwC Ireland)",
+      "type": "html",
+      "url": "https://www.pwc.ie/careers-ie/job-search.html?wdjobreqtext=data"
+    },
+    {
+      "name": "Proofpoint Ireland Limited",
+      "type": "html",
+      "url": "https://www.proofpoint.com/us/company/careers"
+    },
+    {
+      "name": "Quest Software International Limited",
+      "type": "html",
+      "url": "https://www.quest.com/company/careers.aspx"
+    },
+    {
+      "name": "Raidio Teilifis Eireann (RTE)",
+      "type": "html",
+      "url": "https://www.rte.ie/about/en/jobs/"
+    },
+    {
+      "name": "Randstad Ireland Operations Limited",
+      "type": "html",
+      "url": "https://www.randstad.ie/jobs/q-data-analyst/"
+    },
+    {
+      "name": "Red Hat Limited",
+      "type": "html",
+      "url": "https://careers.redhat.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "Ryanair Labs Limited",
+      "type": "html",
+      "url": "https://careers.ryanair.com/search/?keyword=data"
+    },
+    {
+      "name": "SAP Ireland Limited",
+      "type": "html",
+      "url": "https://jobs.sap.com/search/?q=data&locationsearch=Ireland"
+    },
+    {
+      "name": "Schneider Electric Ireland Limited",
+      "type": "html",
+      "url": "https://careers.se.com/jobs?keyword=data&location=Ireland"
+    },
+    {
+      "name": "Serosep Limited",
+      "type": "html",
+      "url": "https://www.serosep.com/careers/"
+    },
+    {
+      "name": "ServiceNow Ireland Limited",
+      "type": "html",
+      "url": "https://careers.servicenow.com/careers/jobs?search=data&location=Dublin"
+    },
+    {
+      "name": "SFDC Ireland Limited (Salesforce)",
+      "type": "html",
+      "url": "https://careers.salesforce.com/en/jobs/?search=data&country=Ireland"
+    },
+    {
+      "name": "SITA Information Networking Computing Ireland Limited",
+      "type": "html",
+      "url": "https://www.sita.aero/careers/"
+    },
+    {
+      "name": "Sony Interactive Entertainment Ireland Limited",
+      "type": "html",
+      "url": "https://www.playstation.com/en-us/corporate/playstation-careers/"
+    },
+    {
+      "name": "Spotify Ireland Limited",
+      "type": "lever",
+      "slug": "spotify"
+    },
+    {
+      "name": "Squarespace Ireland Limited",
+      "type": "greenhouse",
+      "slug": "squarespace"
+    },
+    {
+      "name": "State Street International (Ireland) Limited",
+      "type": "html",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global?q=data&locationCountry=e42ad5eac46d4cc9b367ceaef42577c5"
+    },
+    {
+      "name": "State Street Technology (Ireland) Limited",
+      "type": "html",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global?q=data%20engineer&locationCountry=e42ad5eac46d4cc9b367ceaef42577c5"
+    },
+    {
+      "name": "Stats Sports Data & Technology Ireland Ltd",
+      "type": "html",
+      "url": "https://statsports.com/careers"
+    },
+    {
+      "name": "Stripe Technology Company Limited",
+      "type": "greenhouse",
+      "slug": "stripe"
+    },
+    {
+      "name": "Susquehanna International Group Limited",
+      "type": "html",
+      "url": "https://careers.sig.com/sig-dublin-careers"
+    },
+    {
+      "name": "SurveyMonkey Europe Unlimited Company",
+      "type": "html",
+      "url": "https://www.surveymonkey.com/mp/jobs/"
+    },
+    {
+      "name": "Synopsys International Ltd",
+      "type": "html",
+      "url": "https://careers.synopsys.com/search-jobs/data/Ireland"
+    },
+    {
+      "name": "Tata Elxsi Limited",
+      "type": "html",
+      "url": "https://www.tataelxsi.com/careers"
+    },
+    {
+      "name": "Tech Mahindra Limited",
+      "type": "html",
+      "url": "https://careers.techmahindra.com/"
+    },
+    {
+      "name": "Tekenable Limited",
+      "type": "html",
+      "url": "https://www.tekenable.com/careers/"
+    },
+    {
+      "name": "Temenos Systems Ireland Limited",
+      "type": "html",
+      "url": "https://www.temenos.com/careers/"
+    },
+    {
+      "name": "Tesco Ireland Ltd",
+      "type": "html",
+      "url": "https://www.tesco-careers.com/search-and-apply/?searchTerm=data&location=Ireland"
+    },
+    {
+      "name": "Tetra Tech Ireland Limited",
+      "type": "html",
+      "url": "https://www.tetratech.com/careers/"
+    },
+    {
+      "name": "TikTok Technology Limited",
+      "type": "html",
+      "url": "https://lifeattiktok.com/search?location=Dublin&keyword=data"
+    },
+    {
+      "name": "Truata Limited",
+      "type": "html",
+      "url": "https://www.truata.com/careers/"
+    },
+    {
+      "name": "Trulioo (Ireland) Limited",
+      "type": "html",
+      "url": "https://www.trulioo.com/company/careers"
+    },
+    {
+      "name": "Twilio Ireland Limited",
+      "type": "greenhouse",
+      "slug": "twilio"
+    },
+    {
+      "name": "Udemy Ireland Limited",
+      "type": "greenhouse",
+      "slug": "udemy"
+    },
+    {
+      "name": "Uniphar Group",
+      "type": "html",
+      "url": "https://www.uniphar.ie/careers/"
+    },
+    {
+      "name": "Waystone Centralised Services (IE) Limited",
+      "type": "html",
+      "url": "https://www.waystone.com/careers/"
+    },
+    {
+      "name": "Wipro Limited - Irish Branch",
+      "type": "html",
+      "url": "https://careers.wipro.com/careers-home/jobs?keyword=data&location=Ireland"
+    },
+    {
+      "name": "Workday Limited",
+      "type": "html",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday?q=data&locations=Ireland"
+    },
+    {
+      "name": "Workvivo Limited",
+      "type": "html",
+      "url": "https://www.workvivo.com/careers/"
+    },
+    {
+      "name": "Yahoo EMEA Limited",
+      "type": "html",
+      "url": "https://www.yahooinc.com/careers/"
+    },
+    {
+      "name": "Zalando Ireland Limited",
+      "type": "html",
+      "url": "https://jobs.zalando.com/en/jobs/?location=Dublin"
+    },
+    {
+      "name": "Zoetis Belgium S.A.",
+      "type": "html",
+      "url": "https://www.zoetis.com/careers"
+    },
+    {
+      "name": "Zurich Insurance Company Ltd",
+      "type": "html",
+      "url": "https://careers.zurich.com/search/?q=data&locationsearch=Ireland"
+    },
+    {
+      "name": "Zyte Group Limited",
+      "type": "html",
+      "url": "https://www.zyte.com/careers/"
+    }
+  ]
+}
